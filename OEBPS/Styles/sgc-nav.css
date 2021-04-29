@@ -1,0 +1,40 @@
+
+nav#landmarks {
+    display:none;
+}
+nav#page-list {
+    display:none;
+}
+ol {
+    list-style-type: none;
+}
+li {
+	font-size:1.2em;
+}
+nav h1 {
+	margin:10% 0;
+}
+.bold{
+	font-weight:bold;
+}
+.center{
+	text-align:center;
+}
+.mainFrame{
+	margin:auto;
+	max-width:62ch;
+}
+.mainFrame p,.mainFrame li {
+	text-indent:1.2em;
+	margin:0.3em 0;
+	line-height:1.5;
+}
+.ml4 {
+	text-indent:1.2em;
+	margin:0.4em 0;
+}
+/*p{
+border: 1px solid red;
+}*/
+
+
