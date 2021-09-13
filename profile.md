@@ -1,7 +1,7 @@
 # Document Profile
 
 1. Original Document
-    -**Author:** Lobo, António Costa, 1840-1913
+    - **Author:** Lobo, António Costa, 1840-1913
     - **Title:** Discurso pronunciado pelo presidente do instituto Dr. Costa Lobo
     - **Publisher:** Coimbra: Imprensa da Universidade, 1917
     - **Language:** Portuguese
